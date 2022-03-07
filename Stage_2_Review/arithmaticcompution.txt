@@ -1,0 +1,14 @@
+ Algorithm For Arithmatic Oprations.
+ 
+ 
+ 1 : start 
+ 2 : Take 3 Inputs.
+ 3 : Computing a + b * c and Storing Result In #result 1
+ 4 : Computing a * b + c and Storing result in #result 2
+ 5 : Computing c + a / b and Storing result in #result 3
+ 6 : Computing a % b + c and Storing result in #result 4
+ 7 : Storing The Results Into the Dictionary.
+ 8 : Storing The Values from Dictionary Into the array.
+ 9 : Sorting and Printing the Results in The Descending Order.
+ 10 : Sorting and Printing the Results in The Ascending Order.
+ 11 : Stop. 

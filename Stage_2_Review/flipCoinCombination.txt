@@ -1,0 +1,8 @@
+Algorithm For FlipCoinCombination.
+
+ 1 : Start 
+ 2 : Taking 2 Variable for No Of Flips and No Of Coins.
+ 3 : Creating the Function #FotalFlip for to check Combinations Of Each .(Singlet/Doublet/Triplet)
+ 4 : Creating the Function #totalPercentageFlip for to check Percentages of Each .(Singlet/Doublet/Triplet)
+ 5 : Printing The Winning Combination.
+ 6 : Stop.
